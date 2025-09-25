@@ -17,3 +17,9 @@ float ReLU_prim(float x);
 float biasedWeightedSum(float *weights, float *inputs, int lungime, float bias);
 
 #endif // HEADERS_H
+
+// git add nume_fisier
+// git commit -m "mesaj"
+// git push 
+
+// git pull
